@@ -1,0 +1,13 @@
+{
+  "name": "เครื่องคำนวณเงินเดือน + OT",
+  "short_name": "เงินเดือน + OT",
+  "start_url": "./salary_ot_calculator_v3.html",
+  "display": "standalone",
+  "background_color": "#f3f4f6",
+  "theme_color": "#111827",
+  "description": "เครื่องคำนวณเงินเดือน OT ค่ากะ วันหยุด นักขัตฤกษ์ และประกันสังคม",
+  "icons": [
+    {"src":"icon-192.png","sizes":"192x192","type":"image/png"},
+    {"src":"icon-512.png","sizes":"512x512","type":"image/png"}
+  ]
+}
