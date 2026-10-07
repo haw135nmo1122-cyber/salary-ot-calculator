@@ -1,4 +1,4 @@
-const CACHE = "salary-ot-v3";
+const CACHE = "salary-ot-v4";
 
 const ASSETS = [
   "./",
