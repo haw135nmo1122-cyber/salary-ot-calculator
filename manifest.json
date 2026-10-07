@@ -1,7 +1,8 @@
 {
   "name": "เครื่องคำนวณเงินเดือน + OT",
   "short_name": "เงินเดือน + OT",
-  "start_url": "/salary-ot-calculator/",
+  "start_url": "./",
+  "scope": "./", 
   "display": "standalone",
   "background_color": "#f3f4f6",
   "theme_color": "#111827",
